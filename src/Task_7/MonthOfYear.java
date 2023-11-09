@@ -2,8 +2,8 @@ package Task_7;
 
 public class MonthOfYear {
     public static void main(String[] args) {
-            int number=5;// что-то не правильно
-            switch (number){// что-то не правильно
+            int number=5;
+            switch (number){
                 case 1:
                     System.out.println("January");
                     break;
