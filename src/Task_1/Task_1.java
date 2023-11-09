@@ -6,5 +6,6 @@ public class Task_1 {
         int b = (int) a;
         System.out.println("Output data with new type is " +b);
         System.out.println("Output data with new type is " +b);
+
     }
 }
